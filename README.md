@@ -16,13 +16,7 @@ Looking for a good read? Explore the books listed below and pick up one of these
   
   * Learning PHP 7 [[Read]](/books/Learning%20PHP%207.pdf)
   
-  * Learning PHP 7 [[Read]](/books/Learning%20PHP%207.pdf)
-  
   * Learning PHP 7 High Performance [[Read]](/books/Learning%20PHP%207%20High%20Performance.pdf)
-  
-  * Learning PHP 7 High Performance [[Read]](/books/Learning%20PHP%207%20High%20Performance.pdf)
-  
-  * Modular Programming with PHP 7 [[Read]](/books/Modular%20Programming%20with%20PHP%207.pdf)
   
   * Modular Programming with PHP 7 [[Read]](/books/Modular%20Programming%20with%20PHP%207.pdf)
   
