@@ -22,6 +22,22 @@ Looking for a good read? Explore the books listed below and pick up one of these
   
   * PHP 7 - Real World Application Development [[Read]](/books/PHP%207%20-%20Real%20World%20Application%20Development.pdf)
   
+* PHP
+
+  * Better PHP Development [[Read]](/books/Better%20PHP%20Development.pdf)
+  
+  * Building a Web Application with PHP and MariaDB - A Reference Guide [[Read]](/books/Building%20a%20Web%20Application%20with%20PHP%20and%20MariaDB%20-%20A%20Reference%20Guide.pdf)
+  
+  * Better PHP Development [[Read]](/books/Better%20PHP%20Development.pdf)
+  
+  * Getting Good with PHP [[Read]](/books/Getting%20Good%20with%20PHP.pdf)
+  
+  * Instant PHP Web Scraping [[Read]](/books/Instant%20PHP%20Web%20Scraping.pdf)
+  
+  * Integrating Web Services with OAuth and PHP [[Read]](/books/Integrating%20Web%20Services%20with%20OAuth%20and%20PHP.pdf)
+  
+  * Jump Start PHP Environment [[Read]](/books/Jump%20Start%20PHP%20Environment.pdf)
+    
 ### Contributing
 
 We'd love to have your helping hand on contributions to this project by forking and sending a pull request!
