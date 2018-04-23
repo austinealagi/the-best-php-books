@@ -37,6 +37,12 @@ Looking for a good read? Explore the books listed below and pick up one of these
   * Integrating Web Services with OAuth and PHP [[Read]](/books/Integrating%20Web%20Services%20with%20OAuth%20and%20PHP.pdf)
   
   * Jump Start PHP Environment [[Read]](/books/Jump%20Start%20PHP%20Environment.pdf)
+  
+  * Jump Start PHP [[Read]](/books/Jump%20Start%20PHP.pdf)
+  
+  * Learning PHP - A Gentle Introduction to the Web's Most Popular Language [[Read]](/books/Learning%20PHP%20-%20A%20Gentle%20Introduction%20to%20the%20Web's%20Most%20Popular%20Language.pdf)
+  
+  * Learning PHP, MySQL & JavaScript - With jQuery, CSS & HTML5 - Fourth Edition [[Read]](/books/Learning%20PHP%2C%20MySQL%20%26%20JavaScript%20-%20With%20jQuery%2C%20CSS%20%26%20HTML5%20-%20Fourth%20Edition.pdf)
     
 ### Contributing
 
